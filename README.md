@@ -1,1 +1,1 @@
-# Learning cli for Linux Ubuntu.
+# This repo is just filled with html learning junk.
